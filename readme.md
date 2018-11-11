@@ -46,7 +46,6 @@ node --experimental-worker ./binaryIter/binaryIter.js
 - Micro and macro improvements for the performance are possible (e.g. for the memory allocated) but this depends
   on the kind of results needed. Log? Number of results? Array? Save of the results remotely?
 - Performance improvements could be also achieved with the use of generators and iterators in JS but their implementation will take a while
-- The implementation (in particular the iterative one) didn't take 20minutes
 
 ## Permutations
 
